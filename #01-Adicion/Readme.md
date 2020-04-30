@@ -1,6 +1,6 @@
 # Etapa #1: Análisis del problema.
 
-#### Transcripcion: hacer que el usuario ingrese dos digitos, digito a y digito b, una vez ingresado los digitos, devolverle la suma de los digitos mencionados anteriormente.
+### Transcripcion: hacer que el usuario ingrese dos digitos, digito a y digito b, una vez ingresado los digitos, devolverle la suma de los digitos mencionados anteriormente.
 
 ### Refinamiento: Un programa que sea capaz de realizar la adicion de dos números enteros.
 
