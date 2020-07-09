@@ -1,5 +1,6 @@
 ## Etapa #1: Analisis del problema.
 -Transcripcion del problea: Dado un año, verificar si este es bisiesto o no.
+
 -Refinamiento e hipotesis: Atravez de un conjunto de condiciones, verificaremos si el año ingresado es bisiesto, para eso se tiene que cumplir lo siguiente:
    - Anio >= 1582, Anio%4==0, Anio%100==0, Anio%400==0.
    
