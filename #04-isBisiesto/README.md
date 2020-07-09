@@ -10,4 +10,5 @@
        - (Anio%4==0)=S
        - (Anio%100==0)=R
        - (Anio%400==0)=V
-  -Arbol Binario: ![](https://github.com/mlopex8/AED/blob/master/%2304-isBisiesto/ArbolBinario.jpg).
+  -Arbol Binario:
+  ![](https://github.com/mlopex8/AED/blob/master/%2304-isBisiesto/ArbolBinario.jpg).
